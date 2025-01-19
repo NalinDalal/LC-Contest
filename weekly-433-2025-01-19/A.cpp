@@ -76,3 +76,7 @@ public:
 };
 
 // Accepted
+// sub:
+// https://leetcode.com/problems/sum-of-variable-length-subarrays/submissions/1513109063/
+// sol:
+// https://leetcode.com/problems/sum-of-variable-length-subarrays/solutions/6300918/3427-sum-of-variable-length-subarrays-10-kijs/
